@@ -116,8 +116,5 @@ You can find the detailed information on the diagram below:
 - **Authentication and Secrets Management**: Azure Active Directory and Azure Key Vault
 - **Data Visualization**: PowerBI
 
-<a name="contact"></a>
-## 📨 Contact Me
-
 [LinkedIn](linkedin.com/in/dineshsarikonda) •
 
