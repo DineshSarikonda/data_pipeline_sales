@@ -116,14 +116,8 @@ You can find the detailed information on the diagram below:
 - **Authentication and Secrets Management**: Azure Active Directory and Azure Key Vault
 - **Data Visualization**: PowerBI
 
-<a name="credits"></a>
-## 📋 Credits
-
-- This Project is inspired by the video of the [YouTube Channel "Mr. K Talks Tech"](https://www.youtube.com/watch?v=iQ41WqhHglk)  
-
 <a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://Hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](linkedin.com/in/dineshsarikonda) •
+
